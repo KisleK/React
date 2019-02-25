@@ -7,12 +7,16 @@ import ReactDom from 'react-dom';
 
 // create a react component
 // component using a function with the function key word => const App = function () {return<div></div>;};  re written below
+
+
 const App = () => {
+  const buttonText = 'Click me!';
+  const labelText = 'Enter Name!';
   return (
     <div>
-      <label for="name" class="label">Enter Name</label>
+      <label className="label" htmlFor={'name'}>{labelText}</label>
       <input id="name" type="text" />
-      <button style={{backgroundColor:'blue', color:'white'}}>Submit</button>
+        <button style={{backgroundColor:'blue', color:'white'}}>{buttonText}</button>
     </div>
   );
 };
