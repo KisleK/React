@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDom from 'react-dom';
 import faker from 'faker';
 import CommentDetail from './CommentDetail';
+import ApprovalCard from './ApprovalCard';
 
 //Long way!!!!
 /*
@@ -13,25 +14,32 @@ why not make re-usable components
 const App =() => {
     return (// any time you want to put a big block of JSX use ()
         <div className="ui container comments">
-            <CommentDetail
-                author="Sam"
-                date="Today at 6:00PM"
-                text="Wow! Nice post!"
-                image={faker.image.avatar()}
-            />
-            <CommentDetail
-                author="Alex"
-                date={"Yesterday at 10:00AM"}
-                text="Not the best post...."
-                image={faker.image.avatar()}
-            />
-            <CommentDetail
-                author="Jane"
-                date="Friday at 2:00PM"
-                text="Great Job"
-                image={faker.image.avatar()}
-            />
+            <ApprovalCard>
+                <CommentDetail
+                    author="Sam"
+                    date="Today at 6:00PM"
+                    text="Wow! Nice post!"
+                    image={faker.image.avatar()}
+                />
+            </ApprovalCard>
 
+            <ApprovalCard>
+                <CommentDetail
+                    author="Alex"
+                    date={"Yesterday at 10:00AM"}
+                    text="Not the best post...."
+                    image={faker.image.avatar()}
+                />
+            </ApprovalCard>
+
+            <ApprovalCard>
+                <CommentDetail
+                    author="Jane"
+                    date="Friday at 2:00PM"
+                    text="Great Job"
+                    image={faker.image.avatar()}
+                />
+            </ApprovalCard>
         </div>
     );
 };
