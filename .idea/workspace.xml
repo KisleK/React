@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cdd4226-c1ab-4d71-a357-2ee5e418584c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/jsx/src/index.js" afterPath="$PROJECT_DIR$/jsx/src/index.js" />
-    </list>
+    <list default="true" id="3cdd4226-c1ab-4d71-a357-2ee5e418584c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -108,23 +106,6 @@
               <item name="React code" type="b2602c69:ProjectViewProjectNode" />
               <item name="React code" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="React code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="React code" type="462c0819:PsiDirectoryNode" />
-              <item name="jsx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="React code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="React code" type="462c0819:PsiDirectoryNode" />
-              <item name="jsx" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="React code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="React code" type="462c0819:PsiDirectoryNode" />
-              <item name="jsx" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -171,18 +152,17 @@
       <updated>1551113259160</updated>
       <workItem from="1551113262975" duration="1150000" />
       <workItem from="1551116159451" duration="428000" />
-      <workItem from="1551118610491" duration="1780000" />
+      <workItem from="1551118610491" duration="1927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3358000" />
+    <option name="totallyTimeSpent" value="3505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3478261" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
