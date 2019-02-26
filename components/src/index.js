@@ -13,10 +13,25 @@ why not make re-usable components
 const App =() => {
     return (// any time you want to put a big block of JSX use ()
         <div className="ui container comments">
-            <CommentDetail/>
-            <CommentDetail/>
-            <CommentDetail/>
-            <CommentDetail/>
+            <CommentDetail
+                author="Sam"
+                date="Today at 6:00PM"
+                text="Wow! Nice post!"
+                image={faker.image.avatar()}
+            />
+            <CommentDetail
+                author="Alex"
+                date={"Yesterday at 10:00AM"}
+                text="Not the best post...."
+                image={faker.image.avatar()}
+            />
+            <CommentDetail
+                author="Jane"
+                date="Friday at 2:00PM"
+                text="Great Job"
+                image={faker.image.avatar()}
+            />
+
         </div>
     );
 };
