@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cdd4226-c1ab-4d71-a357-2ee5e418584c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/seasons/src/SeasonDisplay.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/seasons/src/SeasonDisplay.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/seasons/src/Spinner.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/seasons/public/index.html" afterPath="$PROJECT_DIR$/seasons/public/index.html" />
-      <change beforePath="$PROJECT_DIR$/seasons/src/App.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/seasons/src/App.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/seasons/src/App.test.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/seasons/src/index.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/seasons/src/SeasonDisplay.js" afterPath="$PROJECT_DIR$/seasons/src/SeasonDisplay.js" />
       <change beforePath="$PROJECT_DIR$/seasons/src/index.js" afterPath="$PROJECT_DIR$/seasons/src/index.js" />
-      <change beforePath="$PROJECT_DIR$/seasons/src/logo.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/seasons/src/serviceWorker.js" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,8 +23,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/seasons/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="570">
+              <caret line="42" column="64" lean-forward="false" selection-start-line="42" selection-start-column="64" selection-end-line="42" selection-end-column="64" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -40,8 +35,30 @@
       <file leaf-file-name="SeasonDisplay.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/seasons/src/SeasonDisplay.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            <state relative-caret-position="210">
+              <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeasonDisplay.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seasons/src/SeasonDisplay.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Spinner.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seasons/src/Spinner.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -62,7 +79,9 @@
         <option value="$PROJECT_DIR$/components/src/ApprovalCard.js" />
         <option value="$PROJECT_DIR$/components/src/index.js" />
         <option value="$PROJECT_DIR$/seasons/public/index.html" />
+        <option value="$PROJECT_DIR$/seasons/src/SeasonDisplay.css" />
         <option value="$PROJECT_DIR$/seasons/src/SeasonDisplay.js" />
+        <option value="$PROJECT_DIR$/seasons/src/Spinner.js" />
         <option value="$PROJECT_DIR$/seasons/src/index.js" />
       </list>
     </option>
@@ -167,12 +186,12 @@
       <updated>1551113259160</updated>
       <workItem from="1551113262975" duration="1150000" />
       <workItem from="1551116159451" duration="428000" />
-      <workItem from="1551118610491" duration="13690000" />
+      <workItem from="1551118610491" duration="23669000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15268000" />
+    <option name="totallyTimeSpent" value="25247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -323,18 +342,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/seasons/src/SeasonDisplay.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seasons/src/Spinner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/seasons/src/SeasonDisplay.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="210">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/seasons/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="570">
+          <caret line="42" column="64" lean-forward="false" selection-start-line="42" selection-start-column="64" selection-end-line="42" selection-end-column="64" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
